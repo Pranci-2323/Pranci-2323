@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm [Pranci]</h1>
-<h3 align="center">A passionate [Web developer] from [India]</h3>
+<h1 align="center">Hi 👋, I'm Pranci</h1>
+<h3 align="center">A passionate Web developer from India</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **[Machine Learning Projects]**
-- 🌱 I’m currently learning **[Node.js, python libraries, Machine Learning and DataBase Management System]**
-- 👯 I’m looking to collaborate on **[Open Source / Projects]**
-- 💬 Ask me about **[Html, CSS, JavaScript ]**
+- 🔭 I’m currently working on **Machine Learning Projects**
+- 🌱 I’m currently learning **Node.js, python libraries, Machine Learning and DataBase Management System**
+- 👯 I’m looking to collaborate on **Open Source / Projects**
+- 💬 Ask me about **Html, CSS, JavaScript **
 - 📫 How to reach me: **2k23.cs2314053@gmail.com**
 <!--- ⚡ Fun fact: **[Something interesting about you]**-->
 
