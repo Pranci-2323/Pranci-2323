@@ -22,7 +22,7 @@
 ![Web](https://skillicons.dev/icons?i=html,css,react,nodejs,express)
 
 ### 🛠️ Tools & Technologies
-![Tools](https://skillicons.dev/icons?i=git,github,juputernotebook,vscode,linux)
+![Tools](https://skillicons.dev/icons?i=git,github,jupyternotebook,vscode,linux)
 
 ---
 
