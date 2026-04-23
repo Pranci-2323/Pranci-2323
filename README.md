@@ -22,24 +22,22 @@
 ![Web](https://skillicons.dev/icons?i=html,css,react,nodejs,express)
 
 ### 🛠️ Tools & Technologies
-![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,linux)
+![Tools](https://skillicons.dev/icons?i=git,github,juputernotebook,vscode,linux)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranci-2323&show_icons=true&theme=radical" alt="stats" />
 </p>
 
 ---
 
 ## 🔗 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">LinkedIn</a> |
-<a href="https://twitter.com/YOUR_TWITTER" target="blank">Twitter</a> |
-<a href="https://portfolio.com" target="blank">Portfolio</a>
+<a href="https://www.linkedin.com/in/pranci2323" target="blank">LinkedIn</a> |
+<a href="https://pranci-portfolio.vercel.app/" target="blank">Portfolio</a>
 </p>
 
 ---
 
-⭐️ From [Your Name]
