@@ -27,9 +27,10 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pranci-2323&show_icons=true&theme=radical" alt="stats" />
-</p>
+</p>-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranci-2323&show_icons=true&theme=radical)
 
 ---
 
