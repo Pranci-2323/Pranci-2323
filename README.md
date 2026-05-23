@@ -25,12 +25,19 @@
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,jupyter)
 
 ---
-
-## 📊 GitHub Stats
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pranci-2323&show_icons=true&theme=radical" alt="stats" />
 </p>-->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranci-2323&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranci-2323&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranci-2323&layout=compact&theme=radical" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pranci-2323&theme=radical" />
+</p>
 
 ---
 
