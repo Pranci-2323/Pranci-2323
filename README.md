@@ -38,19 +38,29 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pranci-2323&theme=radical" />
 </p>-->
-<div align="center">
+<!--<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pranci-2323&show_icons=true&theme=tokyonight&hide_border=true" height="170">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranci-2323&layout=compact&theme=tokyonight&hide_border=true" height="170">
 
-</div>
+</div>-->
+
 
 <!--<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranci-2323&theme=tokyo-night&hide_border=true">
 
 </div>-->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pranci-2323&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranci-2323&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+
+</div>
 
 ---
 
