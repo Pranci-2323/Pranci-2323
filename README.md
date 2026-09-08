@@ -46,11 +46,11 @@
 
 </div>
 
-<div align="center">
+<!--<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranci-2323&theme=tokyo-night&hide_border=true">
 
-</div>
+</div>-->
 
 ---
 
